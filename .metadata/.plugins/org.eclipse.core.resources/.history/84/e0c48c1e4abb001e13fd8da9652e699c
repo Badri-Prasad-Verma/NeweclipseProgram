@@ -1,0 +1,11 @@
+package app_java_1;
+
+public class A {
+	public void add() {
+		System.out.println("this is A class");
+	}
+
+	public static void main(String[] args) {
+		
+	}
+}

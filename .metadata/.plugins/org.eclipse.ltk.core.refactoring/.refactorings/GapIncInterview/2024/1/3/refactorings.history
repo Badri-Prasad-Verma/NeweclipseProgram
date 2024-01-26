@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StringOccurence.java&apos; to &apos;app_java_string/src/app_java_string&apos;&#x0D;&#x0A;- Original project: &apos;GapIncInterview&apos;&#x0D;&#x0A;- Destination element: &apos;app_java_string/src/app_java_string&apos;&#x0D;&#x0A;- Original element: &apos;StringOccurence.java&apos;" description="Copy compilation unit" destination="=app_java_string/src&lt;app_java_string" element1="/src&lt;{StringOccurence.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1705477092635" units="1" version="1.0"/>
+</session>

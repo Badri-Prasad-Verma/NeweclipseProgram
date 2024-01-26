@@ -1,0 +1,15 @@
+package app_java_important;
+
+public class CheckNumberIsPrimeOrNot {
+
+	public static void main(String[] args) {
+		int n=17;
+		boolean prime=isPrimeNumber(n);
+		System.out.println(n);
+	}
+
+	private static boolean isPrimeNumber(int n) {
+		if()
+		return false;
+	}
+}

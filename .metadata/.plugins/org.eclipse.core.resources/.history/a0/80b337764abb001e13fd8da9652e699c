@@ -1,0 +1,21 @@
+package app_java_1;
+
+public class B extends A{
+	public void add() {
+		System.out.println("this is b class add");
+	}
+	public void delete() {
+		System.out.println("this is b class");
+	}
+	
+	public static void main(String[] args) {
+		B b1=new B();
+		b1.delete();
+		b1.add();
+		
+		A a1=new B();
+		a1.add();
+	}
+	
+	
+}

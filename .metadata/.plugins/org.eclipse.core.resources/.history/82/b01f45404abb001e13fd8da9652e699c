@@ -1,0 +1,15 @@
+package app_java_1;
+
+public class B{
+//	public void add() {
+//		System.out.println("this is b class");
+//	}
+	public void delete() {
+		System.out.println("this is b class");
+	}
+	
+	public static void main(String[] args) {
+		B b1=new B();
+	}
+	
+}
